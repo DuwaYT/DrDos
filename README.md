@@ -1,0 +1,2 @@
+# DrDos
+Script  de ddos 
